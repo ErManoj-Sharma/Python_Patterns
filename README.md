@@ -8,10 +8,10 @@ Prerequistes:
   4. willing to learn this concept
  
  firstly learn how to create this 5 shapes
- * * * * *           *   *              * * * * *   * * * * *
- * * * * *         * *   * *              * * * *   * * * *
- * * * * *       * * *   * * *              * * *   * * * 
- * * * * *     * * * *   * * * *              * *   * *
- * * * * *   * * * * *   * * * * *              *   *
+ # # # # #           *   *              * * * * *   * * * * *
+ # # # # #         * *   * *              * * * *   * * * *
+ # # # # #       * * *   * * *              * * *   * * * 
+ # # # # #     * * * *   * * * *              * *   * *
+ # # # # #   * * * * *   * * * * *              *   *
  
  all these basic pattern will help you to create complex patter like butterfly , diamond , sandbox .
