@@ -14,4 +14,4 @@ Prerequistes:
   # # # # #   |     % % % %   |     $ $ $ $   |   @ @        |         * *
   # # # # #   |   % % % % %   |   $ $ $ $ $   |   @          |           *
  
- all these basic pattern will help you to create complex patter like butterfly , diamond , sandbox .
+ all these basic pattern will help you to create complex patter like butterfly , diamond , sandbox.
